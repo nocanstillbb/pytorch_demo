@@ -1,3 +1,4 @@
 data/MNIST/
 cnn.pat
 data/CIFAR10/
+runs/
